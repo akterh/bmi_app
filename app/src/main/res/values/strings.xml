@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BMI_APP</string>
+    <string name="str_wt">Weight In KG</string>
+    <string name="str_ht">Heigt In Meter</string>
+    <string name="str_bmi">20</string>
+    <string name="Submit">SUBMIT</string>
+    <string name="indicator">IS he healhy or not?</string>
+</resources>
